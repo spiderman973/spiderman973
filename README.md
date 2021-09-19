@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spiderman973
 - 👀 I’m interested in Helping Open Source Developers
-- 🌱 I’m currently learning [nothing] just joking i'm learning doftware development
+- 🌱 I’m currently learning [nothing] just joking i'm learning software development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me i dont know
 
